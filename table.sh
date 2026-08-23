@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for (( i=1; i<=10; i++ )); do
+	echo "5 * $i = $(( i * 5 ))"
+done
+
+
